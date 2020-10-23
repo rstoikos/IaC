@@ -408,7 +408,7 @@
     },
 
     "DBSecurityGroup": {
-      "Type": "AWS::RDS::DBSecurityGroup",
+      "Type": "AWS::EC2::SecurityGroup",
       "Condition" : "Is-EC2-Classic",
       "Properties": {
         "DBSecurityGroupIngress": {
