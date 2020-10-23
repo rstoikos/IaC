@@ -17,6 +17,7 @@
 				"ec2:*",
 				"autoscaling:*",
 				"elasticloadbalancing:*",
+				"codedeploy:*",
 				"rds:*"
 			],
 			"Resource": "*"
