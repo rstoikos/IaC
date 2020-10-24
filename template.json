@@ -411,8 +411,6 @@
       "Type": "AWS::EC2::SecurityGroup",
       "Condition" : "Is-EC2-Classic",
       "Properties": {
-        "DBSecurityGroupIngress": {
-        },
         "GroupDescription": "database access"
       }
     },
