@@ -1,7 +1,7 @@
 {
     "Parameters": {
-        "KeyName": "cisco_asr",
-        "DBUser": "betaUser",
-        "DBPassword": "betaPassword123"
+        "KeyName": "****_***",
+        "DBUser": "****User",
+        "DBPassword": "**********"
     }
 }
